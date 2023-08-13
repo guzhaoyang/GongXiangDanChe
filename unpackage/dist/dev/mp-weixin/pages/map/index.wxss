@@ -1,0 +1,35 @@
+
+.page-section-gap {
+        position: relative;
+}
+.footer{
+        width: 100%;
+        height: 25vh;
+        background-color: #fff;
+        box-sizing: border-box;
+        padding: 20rpx  40rpx 0 40rpx;
+        display: flex;
+        flex-direction: column;
+        border-radius: 22rpx;
+}
+.position{
+        height: 90rpx;
+        line-height:90rpx;
+        background-color: #3d89f0;
+        color: #fff;
+        width: 100%;
+}
+.descriptive{
+        font-size: 30rpx;
+        margin: 30rpx 0 30rpx 0;
+}
+.positionIcon {
+        width: 40rpx;
+        height: 40rpx;
+        border-radius: 50%;
+        position: absolute;
+        bottom: 40rpx;
+        right: 40rpx;
+        background-image: url('https://tse2-mm.cn.bing.net/th/id/OIP-C.fCPxTGJccQvVdqrNFqrMRwHaHa?pid=ImgDet&rs=1');
+        background-size: 100% 100%;
+}
